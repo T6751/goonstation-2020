@@ -1,7 +1,7 @@
 slurm - Inactive
 gibbed - Inactive
 stuntwaffle - Inactive
-wirewraith - Host
+T6751 - Host
 
 pantaloons - Inactive
 keelin - Coder
